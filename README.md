@@ -1,3 +1,5 @@
+A react + vite application for Musicians to store and listen their notation files and audio to practise and store them with security and authentication. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
